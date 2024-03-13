@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>PinnaCloud Releases Nexus Repository</name>
-	      <url>http://172.31.13.66:9980/pinnacloud/repository/ublbank-releases/</url>
+	      <url>http://192.168.103.203:8081/repository/ublbank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>PinnaCloud Snapshot Nexus Repository </name>
-	      <url>http://172.31.13.66:9980/pinnacloud/repository/ublbank-snapshot/</url>
+	      <url>http://192.168.103.203:8081/repository/ublbank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
