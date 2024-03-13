@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to PinnaCloud </h1>
+<h1 align="center">Welcome to CDS </h1>
 <h1 align="center"> Cowlar Design Studio F-7 </h1>
 <hr>
 <br>
