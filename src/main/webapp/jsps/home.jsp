@@ -40,15 +40,15 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		+44 7377 124779
 		info@pinnacloudservices.com
 		<br>
-		<a href="info@pinnacloudservices.com">Mail to PinnaCloud</a>
+		<a href="info@cowlar.com">Mail to CDS</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>PinnaCloud</p>
-<p align=center><small>Copyrights 2024 by PinnaCloud </small></p>
+<p align=center>Cowlar Design Studio</p>
+<p align=center><small>Copyrights 2024 by cowlar </small></p>
 
 </body>
 </html>
