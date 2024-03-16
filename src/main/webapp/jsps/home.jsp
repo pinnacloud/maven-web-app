@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>PinnaCloud- Home Page</title>
+<title>Cowlar Design Studio- Home Page</title>
 <link href="images/logo.png" rel="icon">
 </head>
 </head>
