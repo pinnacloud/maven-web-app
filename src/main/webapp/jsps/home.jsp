@@ -34,9 +34,9 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/logo.png" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		PinnaCloud, 
-		M Asad,
-		United Kingdom,
+		Cowlar, 
+		Arslan Riaz,
+		Pakistan,
 		+44 7377 124779
 		info@cowlar.com
 		<br>
