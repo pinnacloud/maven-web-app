@@ -38,7 +38,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		M Asad,
 		United Kingdom,
 		+44 7377 124779
-		info@pinnacloudservices.com
+		info@cowlar.com
 		<br>
 		<a href="info@cowlar.com">Mail to CDS</a>
 	</span>
