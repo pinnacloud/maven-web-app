@@ -48,7 +48,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 <p align=center>Cowlar Design Studio</p>
-<p align=center><small>Copyrights 2024 by cowlar </small></p>
+<p align=center><small>Copyrights 2024 by cowlar Design Studio</small></p>
 
 </body>
 </html>
